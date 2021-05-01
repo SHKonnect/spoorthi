@@ -1,2 +1,2 @@
-# spoorthi
+# index.html
 Repository for guided projects
